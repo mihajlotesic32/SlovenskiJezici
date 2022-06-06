@@ -1,0 +1,21 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: rgb(76, 76, 236);
+    border-top: 30px solid red;
+    border-bottom: 30px solid white;
+}
+.stil_veza{
+    color: red;
+    text-decoration: underline;
+}
+.fusnota{
+    font-size: x-small;
+}
+table, tr, th, td{
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+.lista_bez_tacaka{
+    list-style: none;
+}
